@@ -1,0 +1,7 @@
+/deploy/export*/
+
+wf.*.md
+ade*
+mtest/
+
+__pycache__/
